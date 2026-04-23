@@ -1,6 +1,5 @@
 
 
-
 body {
     font-family: Arial, sans-serif;
 }
@@ -10,4 +9,13 @@ body {
 }
 .col {
     border: 1px solid red;
+}
+
+.c-item{
+    height: 480px;
+
+}
+
+.c-img{
+    height: 100%;
 }
