@@ -1,0 +1,40 @@
+.m-img {
+    width: 140px;
+    height: 140px;
+}
+.c-menu{
+    
+}
+
+.menu-img {
+    max-width: 100%;
+    height: auto;
+}
+
+.overview {
+    height: 180px;
+    background-color: rgb(255, 218, 218);
+
+}
+
+.col-1 {
+    border: 1px solid red;
+}
+
+.col {
+    border: 1px solid red;
+}
+
+.c-item {
+    height: 480;
+
+}
+
+.c-img {
+    height: 100%;
+
+}
+
+.display-6 {
+    text-align: center;
+}
